@@ -59,14 +59,14 @@ nav ul li a {
 }
 
 .about,
-.blog,
+.portfolio,
 .contact {
     padding: 2rem 0;
     text-align: center;
 }
 
 .about .container,
-.blog .container,
+.portfolio .container,
 .contact .container {
     padding: 0 2rem;
 }
@@ -105,6 +105,36 @@ nav ul li a {
 
 .about .container {
     padding: 0 2rem;
+}
+
+.portfolio {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.portfolio .container {
+    padding: 0 2rem;
+}
+
+.project {
+    margin-bottom: 2rem;
+}
+
+.project h3 {
+    margin: 0 0 0.5rem;
+}
+
+.project p {
+    margin: 0.5rem 0;
+}
+
+.project a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: underline;
 }
 
 footer {

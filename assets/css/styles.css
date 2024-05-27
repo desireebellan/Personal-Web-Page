@@ -98,6 +98,15 @@ nav ul li a {
     text-decoration: underline;
 }
 
+.about {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.about .container {
+    padding: 0 2rem;
+}
+
 footer {
     background: #333;
     color: #fff;
